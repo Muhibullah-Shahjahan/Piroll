@@ -1,0 +1,424 @@
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+/*header start*/
+.m_cus{
+	margin-left: 6px !important;
+}
+.nav_tog_cus{
+	font-size: 1rem;
+}
+.bg-color{
+	background-color: white;
+}
+.nav_menu ul li a:last-child{
+	margin-right: 0;
+}
+/*header end*/
+/*banner section start*/
+.banner_text{
+	margin-top: 90px;
+}
+.j_c{
+	justify-content: center;
+}
+.t_c{
+	text-align: center;
+}
+.banner_text h1{
+	font-size: 20px;
+	margin-top: 50px;
+	margin-left: 0;
+}
+.banner_text p{
+	font-size: 16px ;
+	padding: 10px 6% ;
+	margin: 0 !important;
+}
+.banner_text button{
+	margin-bottom: 75px;
+	padding: 6px 10px;
+	margin-left: 0!important;
+	background-color: rgba(0,0,0,.4);
+}
+/*banner section end*/
+/*about us start*/
+.about_custom{
+	margin:75px 0;
+}
+.about_h1{
+	font-size: 20px;
+}
+.about_p{
+	margin: 0 !important;
+	padding: 20px 6%;
+}
+.m_0{
+	margin: 0!important;
+}
+.sign_custom{
+	width: 60%;
+	margin-top: 10px;
+}
+/*about us end*/
+/*pro skill start*/
+.section_padding{
+	padding: 0; 
+}
+.l_part{
+	margin: 0 !important;
+}
+.l_part h1{
+	font-size: 21px;
+}
+.progress-cust p{
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+/*pro skill end*/
+/*activity part start*/
+.activity{
+	padding: 75px 0 !important;
+}
+.img_icon{
+	width: 45%;
+	margin: 20px;
+}
+.text_custom{
+	margin: 20px 0;
+}
+.text_custom p{
+	font-family:'Nunito Sans', sans-serif;
+}
+
+/*activity part end*/
+/*our work process start*/
+.text{
+	height: 230px;
+	margin-top: 10px;
+}
+/*our work process end*/
+/*others options start*/
+.m-cus{
+	margin-top: 30px;
+}
+.icon_mod{
+	min-height: 0;
+}
+.other_head{
+	margin: 10px 0;
+}
+.other_p{
+	padding: 0px 45px;
+    line-height: 22px;
+}
+/*others options end*/
+/*testimonial start*/
+.testimonial{
+	min-height: 400px;
+}
+.cil li{
+	height: 6px;
+	width: 6px;
+}
+.car_item{
+	margin-top: 80px;
+}
+.car_item h3{
+    font-size: 18px;
+    padding: 0;
+    word-spacing: 2px;
+    line-height: 24px;
+}
+.car_item p{
+	margin-top: 25px;
+	margin-bottom: 50px;
+}
+/*testimonial end*/
+/*sponser start*/
+.sponser_icon{
+	padding: 36px 0;
+}
+/*sponser end*/
+/*form start*/
+.form_text h1{
+    font-size: 20px;
+}
+.form_text p{
+	padding: 18px 35px;
+}
+.form_text button{
+	width: 135px;
+	height: 40px;
+}
+.col-margin{
+	margin: 0 auto;
+}
+/*form end*/
+/*footer start*/
+
+.footer_p{
+	margin: 20px 0;
+	text-align: center;
+}
+/*.footer_p a{
+	color: white !important;
+	text-decoration: none;
+	margin: 0;
+}*/
+/*footer end*/
+
+ }
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.m_cus{
+	margin-left: 12px !important;
+}
+.bg-color{
+	background-color: white;
+}
+.nav_menu ul li a:last-child{
+	margin-right: 0;
+}
+/*header end*/
+/*banner start*/
+.banner-text{ 
+	margin-top: 0 !important;
+}
+.banner_text h1{
+	font-size: 30px;
+	margin-top: 150px;
+	margin-left: 4px;
+}
+.banner_text p{
+	font-size: 16px;
+	margin: 16px 4px;
+}
+.banner_text button{
+	margin-left: 4px;
+	padding: 8px 20px;
+	margin-bottom: 150px;
+}
+/*banner end*/
+/*about us start*/
+.about_custom{
+	margin:80px 10px;
+}
+.about_h1{
+	font-size: 30px;
+}
+.about_p{
+	margin: 0 !important;
+	padding: 16px 25px;
+}
+.m_0{
+	margin: 0!important;
+}
+.sign_custom{;
+	margin-top: 20px;
+}
+/*about us end*/
+/*pro skill start*/
+.section_padding{
+	padding: 50px; 
+}
+.l_part{
+	margin: 0 !important;
+}
+.l_part h1{
+	font-size: 30px;
+	margin-bottom: 38px;
+}
+
+.progress-cust p{
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+/*pro skill end*/
+/*activity part start*/
+.img_icon{
+	width: 65%;
+	margin: 20px;
+}
+.text_custom{
+	margin: 20px 0;
+}
+/*activity part end*/
+/*our work process start*/
+.text{
+	height: 360px;
+	margin-top: 16px;
+}
+/*our work process end*/
+/*others options start*/
+.m-cus{
+	margin-top: 50px;
+}
+.icon_mod{
+	min-height: 0;
+}
+.other_head{
+	margin: 15px 0;
+}
+.other_p{
+	padding: 0px 45px;
+    line-height: 25px;
+}
+/*others options end*/
+/*testimonial start*/
+.testimonial{
+	min-height: 460px;
+}
+.cil li{
+	height: 9px;
+	width: 9px;
+}
+.car_item{
+	margin-top: 130px;
+}
+.car_item h3{
+    font-size: 22px;
+    word-spacing: 4px;
+    line-height: 31px;
+}
+.car_item p{
+	margin-top: 30px;
+	margin-bottom: 70px;
+}
+/*testimonial end*/
+/*form start*/
+.form_text h1{
+    font-size: 30px;
+}
+.col-margin{
+	margin: 0 auto;
+}
+/*form end*/
+/*footer start*/
+
+.footer_p{
+	margin: 20px 0;
+	text-align: center;
+}
+/*footer end*/
+
+
+
+ }
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header start*/
+.m_cus{
+	margin-left: 16px !important;
+}
+.bg-color{
+	background-color: white;
+}
+.nav_menu ul li a:last-child{
+	margin-right: 0;
+}
+/*header end*/
+/*banner start*/
+.banner-text{ 
+	margin-top: 0 !important;
+}
+.banner_text h1{
+	font-size: 30px;
+	margin-top: 250px;
+	margin-left: 15px;
+}
+.banner_text p{
+	font-size: 16px;
+	margin: 21px 15px;
+}
+.banner_text button{
+	margin-left: 15px;
+	padding: 10px 35px;
+	margin-bottom: 140px;
+}
+
+/*banner end*/
+/*about us start*/
+.about_h1{
+	font-size: 30px;
+}
+.about_p{
+	margin: 0 !important;
+	padding: 21px 0;
+}
+.m_0{
+	margin: 0!important;
+}
+.sign_custom{;
+	margin-top: 10px;
+}
+.l_part{
+	margin: 0 !important;
+}
+.p_custom{
+	padding: 100px 0 !important;
+}
+/*pro skill end*/
+/*activity part start*/
+.img_icon{
+	width: 100% !important;
+}
+
+/*activity part end*/
+.text{
+	height: 500px;
+	margin-top: 21px;
+}
+/*our work process end*/
+/*testimonial start*/
+/*.testimonial{
+	min-height: 460px;
+}*/
+.cil li{
+	height: 11px;
+	width: 11px;
+}
+.car_item{
+	margin-top: 130px;
+}
+.car_item h3{
+    font-size: 24px;
+    word-spacing: 6px;
+    line-height: 35px;
+}
+.car_item p{
+	margin-top: 32px;
+	margin-bottom: 75px;
+}
+/*testimonial end*/
+/*form start*/
+.form_text p{
+	padding: 22px 40px;
+}
+/*form end*/
+
+
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*others options start*/
+.other_p{
+	padding: 0 20px;
+}
+/*others options end*/
+
+
+ }
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+
+
+ }
